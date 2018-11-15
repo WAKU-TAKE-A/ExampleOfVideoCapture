@@ -1,0 +1,2 @@
+# ExampleOfVideoCapture
+Example of VideoCapture.
